@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(32, 211, 44); 
+}
+img{
+    width: 168px;
+    height: 72px;
+}
+#img1{
+    width: 100px;
+}
+.imgsec1{
+    width: 400px;
+    box-shadow: -1px 7px 26px red;
+ }
